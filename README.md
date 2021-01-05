@@ -5,6 +5,6 @@ Im isaiah!
 
 ------------
 
-**I do programming when im bored :tw-1f605:**
+**I do programming when im bored 😅**
 *I have nothing on my profile*
 
