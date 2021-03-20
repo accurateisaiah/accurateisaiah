@@ -1,12 +1,7 @@
 ### Welcome to my profile!
-Im isaiah!
-1. Im currently working on: Websites
-2. Im currently learning: Python, HTML, JS, CSS, C
+I'm Isaiah!
+1. I'm currently working on: Websites, Jailbreak Tweaks and more stuff. 
+2. I'm currently learning: Python, HTML, JS, CSS, C
 
 
 ------------
-
-**I do programming when im bored 😅**
-*I have nothing on my profile*
-
-mario programing go brrrrrrrrrrrrrrrrrrrrr
