@@ -13,6 +13,6 @@ I'm Isaiah!
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaiahangnakak)](https://github.com/anuraghazra/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaiahangnakak)](https://github.com/anuraghazra/github-readme-stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaiahangnakak)](https://github.com/anuraghazra/github-readme-stats)
 
 
