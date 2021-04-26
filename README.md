@@ -5,8 +5,7 @@ I'm Isaiah!
 **Stuff I'm doing:**
 
  - I'm currently working on: Websites, Jailbreak Tweaks and more stuff. 
-  - I'm currently learning: Python, HTML, JS, CSS, Objective-C
-
+  - I'm currently learning: Python, HTML, JS, CSS, C#
 ----
 
 
