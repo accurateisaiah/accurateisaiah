@@ -15,11 +15,9 @@ I'm Isaiah!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=accurateisaiah)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
 ```text
-C#          20 mins         ███████████▒░░░░░░░░░░░░░   44.68 % 
-Other       13 mins         ███████▒░░░░░░░░░░░░░░░░░   29.99 % 
-JSON        5 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
-Batchfile   3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
-HTML        1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
+C#      17 mins         ███████████████████░░░░░░   75.97 % 
+Other   2 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.99 % 
+HTML    1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
 ```
 <!--END_SECTION:waka-->
 
