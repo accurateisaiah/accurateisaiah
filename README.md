@@ -5,7 +5,7 @@ I'm Isaiah!
 **Stuff I'm doing:**
 
  - I'm currently working on: Websites, Sandbox Stuff. 
-  - I'm currently learning: Python, HTML, CSS, C# <br/>
+  - I'm currently learning: C# <br/>
   
 📈 Stats:
 -----
