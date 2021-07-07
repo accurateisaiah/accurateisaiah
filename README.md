@@ -17,7 +17,7 @@ I'm Isaiah!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=accurateisaiah)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
 ```text
-Blender   29 mins         █████████████████████████   100.00 % 
+Blender   39 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
