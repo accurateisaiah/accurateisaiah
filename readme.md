@@ -2,10 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=accurateisaiah&label=Profile%20views&color=0e75b6&style=flat" alt="accurateisaiah" /> </p>
 
-- 🔭 I’m currently working on [Glizzy Gobblers](https://github.com/GalaxyCatalysts/glizzygobblers)
+- 🔭 I’m currently working on tesseractjb
 
-- 🌱 I’m currently learning **s&box development**
-
+- 🌱 I’m currently learning other stuff
 - 👨‍💻 All of my projects are available at [https://isaiah.games](https://isaiah.games)
 
 - 💬 Ask me about **source 2 stuff**
